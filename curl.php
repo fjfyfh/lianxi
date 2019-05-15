@@ -28,4 +28,6 @@
  echo "string";
 
 
+ echo $_SERVER['HTTP_HOST'];
+
  print_r($arr);
